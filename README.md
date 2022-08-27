@@ -13,8 +13,8 @@ How to use it with Task Scheduler:
 3. In Triggers Tap, select "New". Set your prefer start time, repeatation, etc.
 4. In Actions Tap, select "New".
 
-a. Program/script: select "{PATH}\python.exe". Try "where python" to get the PATH.
+    a. Program/script: select "{PATH}\python.exe". Try "where python" to get the PATH.
 
-b. Add arguments (optional): "{PATH}\OpenVideoAtTimeV8.py"
+    b. Add arguments (optional): "{PATH}\OpenVideoAtTimeV8.py"
 
-c. Start in (optional): "{PATH}". PATH is the location of the whole folder (containing the script, video, pictures).
+    c. Start in (optional): "{PATH}". PATH is the location of the whole folder (containing the script, video, pictures).
